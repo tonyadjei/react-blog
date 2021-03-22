@@ -1,0 +1,16 @@
+{
+    "blogs": [
+        {
+            "title": "My first blog post",
+            "body": "Hello peeps and welcome to my blog!\nAs this is my first ever blog post, I will introduce myself and give a brief description of who I am.",
+            "author": "Tony Mills",
+            "id": 1
+        },
+        {
+            "title": "ReactJS Vs Vue.js",
+            "body": "In this blog post we will take a look at arguably the two most popular web development frameworks\nReact and Vue.js. This will be solely based on my opinions and some research I conducted over the past few weeks.",
+            "author": "Terrence James",
+            "id": 2
+        }
+    ]
+}
