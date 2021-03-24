@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 
-const useFetch = (url) => { //custom hooks must begin with 'use'
+const useFetch = (url) => { //custom hooks must begin with 'use' otherwise they will not work
     const [data, setData] = useState(null);
     const [isPending, setIsPending] = useState(true);
     const [error, setError] = useState(null);
